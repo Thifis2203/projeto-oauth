@@ -3,7 +3,7 @@ import { createClient } from
 
 // Substitua pelos dados do seu projeto
 const supabaseUrl = "https://lavkqnrfifwiiunwsovo.supabase.co";
-const supabaseKey = "sb_publishable_RS-TqcatpQaTOdSlhLFi-g_QgLxNhfu";
+const supabaseKey = "sb_publishable_RS-TqcatpQaTOdSlhLFi-g_QgLxNhfu-";
 
 export const supabase = createClient(
   supabaseUrl,
